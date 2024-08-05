@@ -81,7 +81,7 @@ class Chapter1:
     names.insert(0, "Fred")
     print(names)
     names.remove("Mary")
-    print(names)
+    print(names)       
     # names.clear()
     print("Joe" in names)
     print(len(names))
